@@ -629,6 +629,48 @@ Calculus, maxima/minima, Taylor expansion and optimization.
 
 ---
 
+# 🌟 GATE DA 2027 — 100-DAY PREPARATION TRACKER
+
+> ## 🚨 FEATURED DA PLANNING TOOL
+> **Use the 100-Day Tracker as the primary day-by-day execution sheet for GATE DA preparation.**
+>
+> **[📅 OPEN GATE DA 2027 — 100-DAY PREPARATION TRACKER](https://drive.google.com/file/d/1gaZZXs8iaPADpk66C1FEPyuI9dImOlJm/view)**
+>
+> **Planning flow:**  
+> `SYLLABUS → 100-DAY TRACKER → SUBJECT PRIORITY → WEEKLY PLAN → DAILY TOPIC → PYQ → ERROR LOG → REVISION`
+
+### How to Use the Tracker
+
+| Step | Action |
+|---|---|
+| **01 — Scope** | Check the DA syllabus before starting a new block |
+| **02 — Day Target** | Follow the corresponding day/topic in the 100-day tracker |
+| **03 — Learn** | Use the linked playlist / one-shot / topic-wise resource |
+| **04 — Practice** | Solve basic and topic-level questions |
+| **05 — PYQ** | Attempt relevant GATE DA PYQs |
+| **06 — Review** | Record wrong, guessed or slow questions |
+| **07 — Re-solve** | Re-attempt important mistakes without looking at the solution |
+| **08 — Revise** | Carry weak topics into the next revision cycle |
+
+### DA Planning References
+
+| Resource | Purpose | Link |
+|---|---|---|
+| **100-Day Preparation Tracker** | Day-wise and topic-level progress tracking | [Open Tracker](https://drive.google.com/file/d/1gaZZXs8iaPADpk66C1FEPyuI9dImOlJm/view) |
+| **GATE DA 2027 Syllabus** | Scope control for planned topics | [Open Syllabus](https://drive.google.com/file/d/17U-cM_txdkhe1C28A3iZb6MhGbKEGk1/view) |
+| **Syllabus & Planning Folder** | Supporting planning material | [Open Planning Folder](https://drive.google.com/drive/folders/1yvN59ReIW3fwVaRHDODsacjjkl-j2e3X) |
+
+### Tracker Completion Rule
+
+A day or topic should **not** be considered complete only because the lecture was watched.
+
+Use:
+
+**Concept Coverage → Notes/Reference Review → Practice → PYQ → Error Review → Re-solve → Revision**
+
+> **Quick Entry:** Keep this tracker bookmarked and use it as the first planning checkpoint before opening the DA resource folders.
+
+
 # 🌐 PRIMARY EXTERNAL ENTRY POINTS
 
 ## Official GATE 2027 Portal
