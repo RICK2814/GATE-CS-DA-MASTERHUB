@@ -53,7 +53,7 @@ The central idea is:
 The repository is now split into **global preparation sections** and **track-specific workspaces**.
 
 ### Global sections
-**01 Analysis → 02 How to Study → 03 Master Table → 04 Notes**
+**01 Analysis → 02 How to Study → 03 Master Table → 04 Notes → 05 Video Resources**
 
 ### Track-specific workspaces
 Each track keeps its own **Ideas & Priority → PYQ → Resources** layers.
@@ -66,7 +66,7 @@ Each track keeps its own **Ideas & Priority → PYQ → Resources** layers.
 | **04 Notes** | Where are the dedicated note/reference links? | Central CSE and DA notes library |
 | **Track Ideas & Priority** | What should be focused on first? | Topic and subject prioritisation inside each track |
 | **Track PYQ** | How should actual GATE questions be used? | Topic-wise, subject-wise and mixed PYQ practice |
-| **Track Resources** | Which exact resource should be opened? | Topic-wise lectures, playlists, one-shots, notes and practice |
+| **05 Video Resources** | Where are the supplied YouTube links organised? | Playlists → One-Shots → Topic-Wise Video Links |
 
 ---
 
@@ -122,6 +122,9 @@ GATE-CS-DA-MASTERHUB/
 ├── 04-NOTES/
 │   ├── 01-GATE-CSE/
 │   └── 02-GATE-DA/
+├── 05-VIDEO-RESOURCES/
+│   ├── 01-GATE-CSE/
+│   └── 02-GATE-DA/
 ├── GATE-CSE/
 │   ├── README.md
 │   ├── 03-IDEAS-AND-PRIORITY/
@@ -155,10 +158,10 @@ Use it to understand:
 - relationships between subjects
 
 ### GATE CSE
-[Open CSE Analysis](GATE-CSE/01-ANALYSIS/)
+[Open CSE Analysis](01-ANALYSIS/01-GATE-CSE/)
 
 ### GATE DA
-[Open DA Analysis](GATE-DA/01-ANALYSIS/)
+[Open DA Analysis](01-ANALYSIS/02-GATE-DA/)
 
 ### Analysis → Action
 
@@ -329,11 +332,11 @@ The note tables are separate from the Resource pages so that a student can go di
 
 ---
 
-# 5️⃣ RESOURCES
+ # 5️⃣ VIDEO RESOURCES
 
 ## Purpose
 
-The Resource layer answers:
+The Video Resources layer answers:
 
 > **For this exact topic, which resource should I open?**
 
@@ -345,7 +348,7 @@ Each subject page follows:
 
 # 📚 GATE CSE RESOURCE HUB
 
-[Open Full CSE Resource Hub](GATE-CSE/06-RESOURCES/)
+[Open GATE CSE Video Resources](05-VIDEO-RESOURCES/01-GATE-CSE/)
 
 The CSE resource library contains dedicated pages for:
 
@@ -378,7 +381,7 @@ Each subject page combines topic-level learning entry points, PYQ access, notes/
 
 # 📊 GATE DA RESOURCE HUB
 
-[Open Full DA Resource Hub](GATE-DA/06-RESOURCES/)
+[Open GATE DA Video Resources](05-VIDEO-RESOURCES/02-GATE-DA/)
 
 The DA resource library contains:
 
@@ -663,10 +666,10 @@ Numbering keeps the intended workflow visible:
 ```text
 01-ANALYSIS
 02-HOW-TO-STUDY
-03-IDEAS-AND-PRIORITY
-04-PYQ
-05-MASTER-TABLE
-06-RESOURCES
+03-MASTER-TABLE
+04-NOTES
+05-VIDEO-RESOURCES
+06-GATE-TRACK-SHEETS
 ```
 
 Subject/resource files use predictable numbering inside those folders.
@@ -702,7 +705,7 @@ Use this separation:
 
 **Notes = What to revise from**
 
-**Resources = Where to learn**
+**Video Resources = Where the supplied videos are organised**
 
 **PYQ = How to apply**
 
@@ -760,7 +763,7 @@ It is designed to help the student:
 | 🧮 CSE PYQ | [Open](GATE-CSE/04-PYQ/) |
 | 📋 CSE Master Table | [Open](03-MASTER-TABLE/01-GATE-CSE/) |
 | 📝 CSE Notes | [Open](04-NOTES/01-GATE-CSE/) |
-| 📚 CSE Resources | [Open](GATE-CSE/06-RESOURCES/) |
+| 🎥 CSE Video Resources | [Open](05-VIDEO-RESOURCES/01-GATE-CSE/) |
 | 🤖 GATE DA | [Open Workspace](GATE-DA/) |
 | 📊 DA Analysis | [Open](01-ANALYSIS/02-GATE-DA/) |
 | 🗓️ DA Study Plan | [Open](02-HOW-TO-STUDY/02-GATE-DA/) |
@@ -768,7 +771,7 @@ It is designed to help the student:
 | 🧮 DA PYQ | [Open](GATE-DA/04-PYQ/) |
 | 📋 DA Master Table | [Open](03-MASTER-TABLE/02-GATE-DA/) |
 | 📝 DA Notes | [Open](04-NOTES/02-GATE-DA/) |
-| 📚 DA Resources | [Open](GATE-DA/06-RESOURCES/) |
+| 🎥 DA Video Resources | [Open](05-VIDEO-RESOURCES/02-GATE-DA/) |
 | 🧠 DA ML Visualization | [Open](GATE-DA/06-RESOURCES/06-machine-learning/machine-learning-killer-visualization.md) |
 | 🌐 Official GATE 2027 | [gate2027.iitm.ac.in](https://gate2027.iitm.ac.in/) |
 | 🧩 GATE Overflow | [gateoverflow.in](https://gateoverflow.in/) |
