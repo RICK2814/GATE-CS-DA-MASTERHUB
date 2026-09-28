@@ -1,6 +1,7 @@
-# One-Shots — Detailed Review
+# ONE SHOTS — Detailed Review
 
-> This file is the **deep review layer** for the folder. `README.md` remains the quick-access index; this `REVIEW.md` explains how to use the folder, what is inside, and what to do before moving on.
+
+> **REVIEW.md** is the deep layer for this folder. Use `README.md` for quick access and this file for purpose, inventory, workflow, quality checks and completion criteria.
 
 ## 1. Folder Identity
 
@@ -9,53 +10,65 @@
 | Track | GATE Aptitude |
 | Folder | `GATE-APTITUDE/02-VIDEO-RESOURCES/02-ONE-SHOTS` |
 | Review Type | Aptitude One-Shot |
-| Immediate Items | 1 |
-| Primary Goal | Use the supplied one-shot as a consolidation/revision resource and return to topic-wise videos for exact gaps. |
+| Immediate Items | 2 |
+| Primary Goal | Use the supplied aptitude one-shot for compact revision and return to domain-specific videos for exact gaps. |
 
-## 2. What Is Inside This Folder
+## 2. Resource / File Inventory
 
 - **File:** `README.md`
+- **File:** `REVIEW.md`
 
-## 3. How To Use This Folder
+## 3. Recommended Workflow
 
-1. Use the one-shot to reconnect the complete topic map.
-2. Mark every unfamiliar concept.
-3. Return to topic-wise videos for unresolved gaps.
-4. Validate the revision using PYQs.
+1. Use the one-shot to reconnect the topic map.
+2. Mark unfamiliar concepts.
+3. Repair gaps with topic-wise videos/notes.
+4. Validate with questions and PYQs.
 
-## 4. Review Checklist
+## 4. Review Data To Record
 
-- [ ] I know what this folder is for.
-- [ ] I opened the correct primary resource.
-- [ ] I connected the resource to the syllabus/topic.
-- [ ] I completed active study rather than passive consumption.
-- [ ] I solved representative questions.
-- [ ] I attempted the relevant PYQs.
-- [ ] I recorded mistakes or gaps.
-- [ ] I re-solved the important wrong questions.
-- [ ] I scheduled the next revision.
-
-## 5. Quality Control
-
-| Check | Standard |
+| Field | Record |
 |---|---|
-| Resource selection | Prefer one primary source instead of collecting duplicates |
-| Coverage | Verify the exact syllabus item being studied |
+| Resource used | Exact file/video/link used |
+| Syllabus item | Exact topic/domain covered |
+| Notes | New or revised notes created |
+| Practice | Question set completed |
+| PYQ | Questions attempted / re-solved |
+| Error type | Concept / Formula / Logic / Calculation / Reading / Time |
+| Confidence | Strong / Medium / Weak |
+| Next review | Date or revision cycle |
+
+## 5. Completion Checklist
+
+- [ ] Correct resource identified
+- [ ] Syllabus/topic mapping checked
+- [ ] Active learning completed
+- [ ] Notes/formulas/definitions reviewed
+- [ ] Representative questions solved
+- [ ] Relevant PYQs attempted
+- [ ] Mistakes categorised
+- [ ] Wrong/slow questions re-solved
+- [ ] Weak areas scheduled for revision
+
+## 6. Quality Control Rules
+
+| Control | Standard |
+|---|---|
+| Resource selection | Prefer one primary source + PYQ over resource overload |
+| Coverage | Verify the exact syllabus item; do not infer coverage from video length |
 | Learning | Use active recall and problem solving |
-| PYQ | Use actual GATE questions where applicable |
-| Errors | Categorise and re-solve |
-| Revision | Use spaced revisits rather than one final revision |
+| PYQ | Treat actual GATE questions as validation |
+| Error review | Record why the answer was wrong |
+| Revision | Revisit weak areas through spaced re-solving |
 
-## 6. Navigation Rule
+## 7. Navigation Principle
 
-Use this sequence whenever possible:
+**Review → Exact Resource → Practice → PYQ → Error Log → Re-solve → Revision → Master Table**
 
-**Folder Review → Exact Resource → Practice → PYQ → Error Log → Re-solve → Revision → Back to Master Table**
+## 8. Source Discipline
 
-## 7. Source Discipline
+This review file adds organisation and execution guidance around the repository's existing resources. It does **not** invent missing links, silently replace source material, or claim full syllabus coverage when the underlying source does not establish it.
 
-This review file is an organisation and execution layer. It does **not** invent missing links, silently change source content, or treat a listed video/note as proof that every syllabus topic is completely covered.
+## 9. Final Check
 
-## 8. Final Review Question
-
-**After using this folder, can I show a concrete output—notes, solved questions, PYQs, error fixes or a completed revision state?**
+**Can I show a concrete output from this folder—completed learning, solved questions, PYQs, fixed errors or a scheduled revision?**

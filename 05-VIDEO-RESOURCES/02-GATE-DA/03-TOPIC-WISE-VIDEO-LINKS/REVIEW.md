@@ -1,6 +1,7 @@
-# Topic-Wise Video Links — Detailed Review
+# TOPIC WISE VIDEO LINKS — Detailed Review
 
-> This file is the **deep review layer** for the folder. `README.md` remains the quick-access index; this `REVIEW.md` explains how to use the folder, what is inside, and what to do before moving on.
+
+> **REVIEW.md** is the deep layer for this folder. Use `README.md` for quick access and this file for purpose, inventory, workflow, quality checks and completion criteria.
 
 ## 1. Folder Identity
 
@@ -9,59 +10,71 @@
 | Track | GATE DA |
 | Folder | `05-VIDEO-RESOURCES/02-GATE-DA/03-TOPIC-WISE-VIDEO-LINKS` |
 | Review Type | Video Resources |
-| Immediate Items | 8 |
+| Immediate Items | 9 |
 | Primary Goal | Choose the appropriate video depth: playlist for structured learning, one-shot for revision, topic-wise video for a specific gap. |
 
-## 2. What Is Inside This Folder
+## 2. Resource / File Inventory
 
-- **Folder:** [PROBABILITY AND STATISTICS](01-PROBABILITY-AND-STATISTICS/)
-- **Folder:** [LINEAR ALGEBRA](02-LINEAR-ALGEBRA/)
-- **Folder:** [CALCULUS AND OPTIMIZATION](03-CALCULUS-AND-OPTIMIZATION/)
-- **Folder:** [PROGRAMMING DATA STRUCTURES AND ALGORITHMS](04-PROGRAMMING-DATA-STRUCTURES-AND-ALGORITHMS/)
-- **Folder:** [DATABASE MANAGEMENT AND WAREHOUSING](05-DATABASE-MANAGEMENT-AND-WAREHOUSING/)
-- **Folder:** [MACHINE LEARNING](06-MACHINE-LEARNING/)
-- **Folder:** [ARTIFICIAL INTELLIGENCE](07-ARTIFICIAL-INTELLIGENCE/)
+- **Folder:** `01-PROBABILITY-AND-STATISTICS/`
+- **Folder:** `02-LINEAR-ALGEBRA/`
+- **Folder:** `03-CALCULUS-AND-OPTIMIZATION/`
+- **Folder:** `04-PROGRAMMING-DATA-STRUCTURES-AND-ALGORITHMS/`
+- **Folder:** `05-DATABASE-MANAGEMENT-AND-WAREHOUSING/`
+- **Folder:** `06-MACHINE-LEARNING/`
+- **Folder:** `07-ARTIFICIAL-INTELLIGENCE/`
 - **File:** `README.md`
+- **File:** `REVIEW.md`
 
-## 3. How To Use This Folder
+## 3. Recommended Workflow
 
-1. Start with the folder README.
-2. Use the most specific child resource available.
-3. Complete learning, practice and review before opening more resources.
+1. Start with the README.
+2. Open the most specific child resource.
+3. Complete learning, practice and review before collecting additional material.
 
-## 4. Review Checklist
+## 4. Review Data To Record
 
-- [ ] I know what this folder is for.
-- [ ] I opened the correct primary resource.
-- [ ] I connected the resource to the syllabus/topic.
-- [ ] I completed active study rather than passive consumption.
-- [ ] I solved representative questions.
-- [ ] I attempted the relevant PYQs.
-- [ ] I recorded mistakes or gaps.
-- [ ] I re-solved the important wrong questions.
-- [ ] I scheduled the next revision.
-
-## 5. Quality Control
-
-| Check | Standard |
+| Field | Record |
 |---|---|
-| Resource selection | Prefer one primary source instead of collecting duplicates |
-| Coverage | Verify the exact syllabus item being studied |
+| Resource used | Exact file/video/link used |
+| Syllabus item | Exact topic/domain covered |
+| Notes | New or revised notes created |
+| Practice | Question set completed |
+| PYQ | Questions attempted / re-solved |
+| Error type | Concept / Formula / Logic / Calculation / Reading / Time |
+| Confidence | Strong / Medium / Weak |
+| Next review | Date or revision cycle |
+
+## 5. Completion Checklist
+
+- [ ] Correct resource identified
+- [ ] Syllabus/topic mapping checked
+- [ ] Active learning completed
+- [ ] Notes/formulas/definitions reviewed
+- [ ] Representative questions solved
+- [ ] Relevant PYQs attempted
+- [ ] Mistakes categorised
+- [ ] Wrong/slow questions re-solved
+- [ ] Weak areas scheduled for revision
+
+## 6. Quality Control Rules
+
+| Control | Standard |
+|---|---|
+| Resource selection | Prefer one primary source + PYQ over resource overload |
+| Coverage | Verify the exact syllabus item; do not infer coverage from video length |
 | Learning | Use active recall and problem solving |
-| PYQ | Use actual GATE questions where applicable |
-| Errors | Categorise and re-solve |
-| Revision | Use spaced revisits rather than one final revision |
+| PYQ | Treat actual GATE questions as validation |
+| Error review | Record why the answer was wrong |
+| Revision | Revisit weak areas through spaced re-solving |
 
-## 6. Navigation Rule
+## 7. Navigation Principle
 
-Use this sequence whenever possible:
+**Review → Exact Resource → Practice → PYQ → Error Log → Re-solve → Revision → Master Table**
 
-**Folder Review → Exact Resource → Practice → PYQ → Error Log → Re-solve → Revision → Back to Master Table**
+## 8. Source Discipline
 
-## 7. Source Discipline
+This review file adds organisation and execution guidance around the repository's existing resources. It does **not** invent missing links, silently replace source material, or claim full syllabus coverage when the underlying source does not establish it.
 
-This review file is an organisation and execution layer. It does **not** invent missing links, silently change source content, or treat a listed video/note as proof that every syllabus topic is completely covered.
+## 9. Final Check
 
-## 8. Final Review Question
-
-**After using this folder, can I show a concrete output—notes, solved questions, PYQs, error fixes or a completed revision state?**
+**Can I show a concrete output from this folder—completed learning, solved questions, PYQs, fixed errors or a scheduled revision?**
