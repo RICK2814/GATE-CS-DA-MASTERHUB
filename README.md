@@ -53,7 +53,7 @@ The central idea is:
 The repository is now split into **global preparation sections** and **track-specific workspaces**.
 
 ### Global sections
-**01 Analysis → 02 How to Study → 03 Master Table**
+**01 Analysis → 02 How to Study → 03 Master Table → 04 Notes**
 
 ### Track-specific workspaces
 Each track keeps its own **Ideas & Priority → PYQ → Resources** layers.
@@ -63,6 +63,7 @@ Each track keeps its own **Ideas & Priority → PYQ → Resources** layers.
 | **01 Analysis** | What does the paper pattern tell us? | Historical trends, subject behaviour, dependencies and recurring areas |
 | **02 How to Study** | How should preparation be executed? | Phases, schedules, study cycles and resource-selection workflow |
 | **03 Master Table** | What deserves repeated attention? | Compact revision and priority command centre |
+| **04 Notes** | Where are the dedicated note/reference links? | Central CSE and DA notes library |
 | **Track Ideas & Priority** | What should be focused on first? | Topic and subject prioritisation inside each track |
 | **Track PYQ** | How should actual GATE questions be used? | Topic-wise, subject-wise and mixed PYQ practice |
 | **Track Resources** | Which exact resource should be opened? | Topic-wise lectures, playlists, one-shots, notes and practice |
@@ -116,6 +117,9 @@ GATE-CS-DA-MASTERHUB/
 │   ├── 01-GATE-CSE/
 │   └── 02-GATE-DA/
 ├── 03-MASTER-TABLE/
+│   ├── 01-GATE-CSE/
+│   └── 02-GATE-DA/
+├── 04-NOTES/
 │   ├── 01-GATE-CSE/
 │   └── 02-GATE-DA/
 ├── GATE-CSE/
@@ -304,7 +308,28 @@ Current DA tiers:
 
 ---
 
-# 6️⃣ RESOURCES
+# 4️⃣ NOTES
+
+## Purpose
+
+The Notes section is a **central reference library** for both tracks.
+
+Instead of keeping note links scattered across individual subject pages, the repository now provides:
+
+- **04-NOTES/01-GATE-CSE/** → all supplied CSE note links in one table
+- **04-NOTES/02-GATE-DA/** → all supplied DA note/reference folders in one table
+
+### GATE CSE Notes
+[Open the CSE Notes Library](04-NOTES/01-GATE-CSE/)
+
+### GATE DA Notes
+[Open the DA Notes Library](04-NOTES/02-GATE-DA/)
+
+The note tables are separate from the Resource pages so that a student can go directly from a topic plan to the relevant notes without searching through the entire repository.
+
+---
+
+# 5️⃣ RESOURCES
 
 ## Purpose
 
@@ -675,6 +700,8 @@ Use this separation:
 
 **How to Study = How**
 
+**Notes = What to revise from**
+
 **Resources = Where to learn**
 
 **PYQ = How to apply**
@@ -732,6 +759,7 @@ It is designed to help the student:
 | 🎯 CSE Priority | [Open](GATE-CSE/03-IDEAS-AND-PRIORITY/) |
 | 🧮 CSE PYQ | [Open](GATE-CSE/04-PYQ/) |
 | 📋 CSE Master Table | [Open](03-MASTER-TABLE/01-GATE-CSE/) |
+| 📝 CSE Notes | [Open](04-NOTES/01-GATE-CSE/) |
 | 📚 CSE Resources | [Open](GATE-CSE/06-RESOURCES/) |
 | 🤖 GATE DA | [Open Workspace](GATE-DA/) |
 | 📊 DA Analysis | [Open](01-ANALYSIS/02-GATE-DA/) |
@@ -739,6 +767,7 @@ It is designed to help the student:
 | 🎯 DA Priority | [Open](GATE-DA/03-IDEAS-AND-PRIORITY/) |
 | 🧮 DA PYQ | [Open](GATE-DA/04-PYQ/) |
 | 📋 DA Master Table | [Open](03-MASTER-TABLE/02-GATE-DA/) |
+| 📝 DA Notes | [Open](04-NOTES/02-GATE-DA/) |
 | 📚 DA Resources | [Open](GATE-DA/06-RESOURCES/) |
 | 🧠 DA ML Visualization | [Open](GATE-DA/06-RESOURCES/06-machine-learning/machine-learning-killer-visualization.md) |
 | 🌐 Official GATE 2027 | [gate2027.iitm.ac.in](https://gate2027.iitm.ac.in/) |
