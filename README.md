@@ -12,7 +12,7 @@
 
 | Area | Purpose | Open |
 |---|---|---|
-| 🌐 **GATE 2027 Master App** | Interactive study interface and roadmap | [Open App](https://gate2027masterpath.netlify.app/) |
+| 🌐 **GATE 2027 Master App** | Interactive study interface and roadmap | [Open App](https://gate2027masterstrategy.vercel.app/) |
 | 🏛️ **Official GATE 2027 Portal** | Official examination information | [Open](https://gate2027.iitm.ac.in/) |
 | 📚 **Official Syllabus / Papers** | Official syllabus and examination documents | [Open](https://gate2027.iitm.ac.in/exam_papers_and_syllabus) |
 | 📅 **Important Dates** | Official schedule information | [Open](https://gate2027.iitm.ac.in/important_dates) |
@@ -452,7 +452,7 @@ This keeps the repository readable even when more subjects, PDFs or resource pag
 
 The interactive companion application is:
 
-**[https://gate2027masterpath.netlify.app/](https://gate2027masterpath.netlify.app/)**
+**[https://gate2027masterstrategy.vercel.app/](https://gate2027masterstrategy.vercel.app/)**
 
 ### Recommended division of responsibilities
 
@@ -575,7 +575,7 @@ The core structure remains:
 
 **[GATE CSE](GATE-CSE/)**  
 **[GATE DA](GATE-DA/)**  
-**[GATE 2027 Master App](https://gate2027masterpath.netlify.app/)**  
+**[GATE 2027 Master App](https://gate2027masterstrategy.vercel.app/)**  
 **[Official GATE 2027 Portal](https://gate2027.iitm.ac.in/)**
 
 ---
