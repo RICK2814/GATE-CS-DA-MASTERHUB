@@ -1,8 +1,13 @@
 # GATE DA — Playlists
 
-| # | Subject | Playlist |
+Each subject has its own folder. Open the subject folder to see the complete playlists table.
+
+| # | Subject | Folder |
 |---:|---|---|
-| 01 | Probability and Statistics | [Probability (Vishal Soni) — PythonAIsta, 7 videos](https://youtube.com/playlist?list=PLJuPON04S-AEzwWJ7X-3O8FAfqaSMdzTx) |
-| 02 | Linear Algebra | [Linear Algebra — GATE 2026 Crash Course (Sakshi Ma'am, GfG)](https://www.youtube.com/playlist?list=PLUljC9Idi5NEaLEp4XE6d2uX5GjCxzTz3) |
-| 03 | Calculus and Optimization | [Calculus and Optimization — GATE DA playlist](https://www.youtube.com/playlist?list=PLNxx5gyq8aLCxDU7kDaqY_w8pEiiNWczl) |
-| 04 | Programming, Data Structures and Algorithms | [Jenny&#x27;s Lectures — full playlist](https://www.youtube.com/@JennyslecturesCSIT/search?query=algorithms) |
+| 01 | Probability and Statistics | [Open](./01-PROBABILITY-AND-STATISTICS/) |
+| 02 | Linear Algebra | [Open](./02-LINEAR-ALGEBRA/) |
+| 03 | Calculus and Optimization | [Open](./03-CALCULUS-AND-OPTIMIZATION/) |
+| 04 | Programming, Data Structures and Algorithms | [Open](./04-PROGRAMMING-DATA-STRUCTURES-AND-ALGORITHMS/) |
+| 05 | Database Management and Warehousing | [Open](./05-DATABASE-MANAGEMENT-AND-WAREHOUSING/) |
+| 06 | Machine Learning | [Open](./06-MACHINE-LEARNING/) |
+| 07 | Artificial Intelligence | [Open](./07-ARTIFICIAL-INTELLIGENCE/) |
