@@ -50,18 +50,22 @@ The central idea is:
 
 ## 🧭 Core Preparation Architecture
 
-Both tracks use the same six-folder framework:
+The repository is now split into **global preparation sections** and **track-specific workspaces**.
 
-**01 Analysis → 02 How to Study → 03 Ideas & Priority → 04 PYQ → 05 Master Table → 06 Resources**
+### Global sections
+**01 Analysis → 02 How to Study → 03 Master Table**
+
+### Track-specific workspaces
+Each track keeps its own **Ideas & Priority → PYQ → Resources** layers.
 
 | Section | Main Question | Role |
 |---|---|---|
 | **01 Analysis** | What does the paper pattern tell us? | Historical trends, subject behaviour, dependencies and recurring areas |
 | **02 How to Study** | How should preparation be executed? | Phases, schedules, study cycles and resource-selection workflow |
-| **03 Ideas & Priority** | What should be focused on first? | Topic and subject prioritisation |
-| **04 PYQ** | How should actual GATE questions be used? | Topic-wise, subject-wise and mixed PYQ practice |
-| **05 Master Table** | What deserves repeated attention? | Compact revision and priority command centre |
-| **06 Resources** | Which exact resource should be opened? | Topic-wise lectures, playlists, one-shots, notes and practice |
+| **03 Master Table** | What deserves repeated attention? | Compact revision and priority command centre |
+| **Track Ideas & Priority** | What should be focused on first? | Topic and subject prioritisation inside each track |
+| **Track PYQ** | How should actual GATE questions be used? | Topic-wise, subject-wise and mixed PYQ practice |
+| **Track Resources** | Which exact resource should be opened? | Topic-wise lectures, playlists, one-shots, notes and practice |
 
 ---
 
@@ -105,23 +109,25 @@ FULL PAPER
 GATE-CS-DA-MASTERHUB/
 │
 ├── README.md
-│
+├── 01-ANALYSIS/
+│   ├── 01-GATE-CSE/
+│   └── 02-GATE-DA/
+├── 02-HOW-TO-STUDY/
+│   ├── 01-GATE-CSE/
+│   └── 02-GATE-DA/
+├── 03-MASTER-TABLE/
+│   ├── 01-GATE-CSE/
+│   └── 02-GATE-DA/
 ├── GATE-CSE/
 │   ├── README.md
-│   ├── 01-ANALYSIS/
-│   ├── 02-HOW-TO-STUDY/
 │   ├── 03-IDEAS-AND-PRIORITY/
 │   ├── 04-PYQ/
-│   ├── 05-MASTER-TABLE/
 │   └── 06-RESOURCES/
 │
 └── GATE-DA/
     ├── README.md
-    ├── 01-ANALYSIS/
-    ├── 02-HOW-TO-STUDY/
     ├── 03-IDEAS-AND-PRIORITY/
     ├── 04-PYQ/
-    ├── 05-MASTER-TABLE/
     └── 06-RESOURCES/
 ```
 
@@ -163,7 +169,7 @@ Use it to understand:
 This layer turns the syllabus into an executable study plan.
 
 ### CSE Study System
-[Open CSE Study Plan](GATE-CSE/02-HOW-TO-STUDY/)
+[Open CSE Study Plan](02-HOW-TO-STUDY/01-GATE-CSE/)
 
 Current six-phase CSE plan:
 
@@ -180,7 +186,7 @@ CSE cycle:
 **LEARN → PRACTICE → PYQ → TEST → REVISE**
 
 ### DA Study System
-[Open DA Study Plan](GATE-DA/02-HOW-TO-STUDY/)
+[Open DA Study Plan](02-HOW-TO-STUDY/02-GATE-DA/)
 
 Current four-phase DA plan:
 
@@ -271,7 +277,7 @@ Revisit After Spacing
 The Master Table is the compact revision command centre.
 
 ### CSE
-[Open CSE Master Table](GATE-CSE/05-MASTER-TABLE/)
+[Open CSE Master Table](03-MASTER-TABLE/01-GATE-CSE/)
 
 Current CSE focus areas include:
 
@@ -286,7 +292,7 @@ Current CSE focus areas include:
 | DBMS | SQL, normalization |
 
 ### DA
-[Open DA Master Table](GATE-DA/05-MASTER-TABLE/)
+[Open DA Master Table](03-MASTER-TABLE/02-GATE-DA/)
 
 Current DA tiers:
 
@@ -721,18 +727,18 @@ It is designed to help the student:
 |---|---|
 | 🚀 Main App | [GATE 2027 Master Strategy](https://gate2027masterstrategy.vercel.app/) |
 | 🎓 GATE CSE | [Open Workspace](GATE-CSE/) |
-| 📊 CSE Analysis | [Open](GATE-CSE/01-ANALYSIS/) |
-| 🗓️ CSE Study Plan | [Open](GATE-CSE/02-HOW-TO-STUDY/) |
+| 📊 CSE Analysis | [Open](01-ANALYSIS/01-GATE-CSE/) |
+| 🗓️ CSE Study Plan | [Open](02-HOW-TO-STUDY/01-GATE-CSE/) |
 | 🎯 CSE Priority | [Open](GATE-CSE/03-IDEAS-AND-PRIORITY/) |
 | 🧮 CSE PYQ | [Open](GATE-CSE/04-PYQ/) |
-| 📋 CSE Master Table | [Open](GATE-CSE/05-MASTER-TABLE/) |
+| 📋 CSE Master Table | [Open](03-MASTER-TABLE/01-GATE-CSE/) |
 | 📚 CSE Resources | [Open](GATE-CSE/06-RESOURCES/) |
 | 🤖 GATE DA | [Open Workspace](GATE-DA/) |
-| 📊 DA Analysis | [Open](GATE-DA/01-ANALYSIS/) |
-| 🗓️ DA Study Plan | [Open](GATE-DA/02-HOW-TO-STUDY/) |
+| 📊 DA Analysis | [Open](01-ANALYSIS/02-GATE-DA/) |
+| 🗓️ DA Study Plan | [Open](02-HOW-TO-STUDY/02-GATE-DA/) |
 | 🎯 DA Priority | [Open](GATE-DA/03-IDEAS-AND-PRIORITY/) |
 | 🧮 DA PYQ | [Open](GATE-DA/04-PYQ/) |
-| 📋 DA Master Table | [Open](GATE-DA/05-MASTER-TABLE/) |
+| 📋 DA Master Table | [Open](03-MASTER-TABLE/02-GATE-DA/) |
 | 📚 DA Resources | [Open](GATE-DA/06-RESOURCES/) |
 | 🧠 DA ML Visualization | [Open](GATE-DA/06-RESOURCES/06-machine-learning/machine-learning-killer-visualization.md) |
 | 🌐 Official GATE 2027 | [gate2027.iitm.ac.in](https://gate2027.iitm.ac.in/) |
