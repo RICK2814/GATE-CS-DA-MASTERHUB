@@ -1,10 +1,13 @@
 # GATE DA — One-Shots
 
-Only supplied one-shot links are included.
+Each subject has its own folder. Open the subject folder to see the complete one-shots table.
 
-| # | Subject | One-Shot |
+| # | Subject | Folder |
 |---:|---|---|
-| 01 | Probability and Statistics | [GATE Wallah — GATE DA Formula Revision (Prob & Stats)](https://youtu.be/faml-mnvELk) |
-| 02 | Linear Algebra | [Unacademy — Vector Space One Shot (partial Linear Algebra)](https://youtu.be/r3l9Wil5qZc) |
-| 03 | Calculus and Optimization | [GATE DA 2026 (IIT Guwahati) — Calculus & Optimization Pattern + PYQs](https://www.youtube.com/watch?v=AXqdLYIEtac) |
-| 04 | Programming, Data Structures and Algorithms | [Unacademy — GATE 2025 Python One Shot / Maha Revision](https://youtu.be/JPXlAMah1S8) |
+| 01 | Probability and Statistics | [Open](./01-PROBABILITY-AND-STATISTICS/) |
+| 02 | Linear Algebra | [Open](./02-LINEAR-ALGEBRA/) |
+| 03 | Calculus and Optimization | [Open](./03-CALCULUS-AND-OPTIMIZATION/) |
+| 04 | Programming, Data Structures and Algorithms | [Open](./04-PROGRAMMING-DATA-STRUCTURES-AND-ALGORITHMS/) |
+| 05 | Database Management and Warehousing | [Open](./05-DATABASE-MANAGEMENT-AND-WAREHOUSING/) |
+| 06 | Machine Learning | [Open](./06-MACHINE-LEARNING/) |
+| 07 | Artificial Intelligence | [Open](./07-ARTIFICIAL-INTELLIGENCE/) |
