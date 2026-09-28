@@ -1,10 +1,19 @@
 # GATE CSE — One-Shots
 
-Only supplied one-shot links are included.
+Each subject has its own folder. Open the subject folder to see the complete one-shots table.
 
-| # | Subject | One-Shot |
+| # | Subject | Folder |
 |---:|---|---|
-| 01 | Programming and Data Structures | [KnowledgeGATE — Complete DS in one shot](https://youtu.be/MdG0Vw9f1A4) |
-| 02 | Algorithms | [KnowledgeGATE — Complete DAA in one shot](https://youtu.be/z6DY_YSdyww) |
-| 03 | Operating Systems | [GATE Wallah — OS Part 1](https://www.youtube.com/watch?v=JlvZj4nl590) |
-| 04 | Computer Networks | [KnowledgeGATE — Complete CN in one shot](https://youtu.be/q3Z3Qa1UNBA) |
+| 01 | Programming and Data Structures | [Open](./01-PROGRAMMING-AND-DATA-STRUCTURES/) |
+| 02 | Algorithms | [Open](./02-ALGORITHMS/) |
+| 03 | Operating Systems | [Open](./03-OPERATING-SYSTEMS/) |
+| 04 | Computer Networks | [Open](./04-COMPUTER-NETWORKS/) |
+| 05 | Discrete Mathematics | [Open](./05-DISCRETE-MATHEMATICS/) |
+| 06 | Theory of Computation | [Open](./06-THEORY-OF-COMPUTATION/) |
+| 07 | DBMS | [Open](./07-DBMS/) |
+| 08 | Computer Organization and Architecture | [Open](./08-COMPUTER-ORGANIZATION-AND-ARCHITECTURE/) |
+| 09 | Engineering Mathematics | [Open](./09-ENGINEERING-MATHEMATICS/) |
+| 10 | Digital Logic | [Open](./10-DIGITAL-LOGIC/) |
+| 11 | Compiler Design | [Open](./11-COMPILER-DESIGN/) |
+| 12 | Calculus | [Open](./12-CALCULUS/) |
+| 13 | GATE General Aptitude | [Open](./13-GATE-GENERAL-APTITUDE/) |
