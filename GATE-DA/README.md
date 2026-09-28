@@ -1,6 +1,6 @@
 # GATE DA - Advanced Master Workspace
 
-**Preparation architecture:** Global Analysis -> Global How to Study -> Track Ideas & Priority -> Track PYQ -> Global Master Table -> Track Resources
+**Preparation architecture:** Global Analysis -> Global How to Study -> Track Ideas & Priority -> Track PYQ -> Global Master Table -> Notes -> Video Resources -> Track Ideas/PYQ
 
 ## Planning
 - [100 Day Preparation Tracker](https://drive.google.com/file/d/1gaZZXs8iaPADpk66C1FEPyuI9dImOlJm/view)
@@ -15,7 +15,8 @@
 | PYQ | [Open](04-PYQ/) |
 | Global Master Table | [Open](../03-MASTER-TABLE/02-GATE-DA/) |
 | Notes | [Open](../04-NOTES/02-GATE-DA/) |
-| Resources | [Open](06-RESOURCES/) |
+| Video Resources | [Open](../05-VIDEO-RESOURCES/02-GATE-DA/) |
+| Detailed Study Sheets | [Open](06-RESOURCES/) |
 
 ## Track-specific sections
 
