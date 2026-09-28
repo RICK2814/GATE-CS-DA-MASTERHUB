@@ -45,6 +45,7 @@ The central idea is:
 |---|---|
 | **GATE CSE** | [Open GATE CSE Workspace](GATE-CSE/) |
 | **GATE DA** | [Open GATE DA Workspace](GATE-DA/) |
+| **GATE Aptitude** | [Open GATE Aptitude Workspace](GATE-APTITUDE/) |
 
 ---
 
@@ -125,6 +126,10 @@ GATE-CS-DA-MASTERHUB/
 ├── 05-VIDEO-RESOURCES/
 │   ├── 01-GATE-CSE/
 │   └── 02-GATE-DA/
+├── GATE-APTITUDE/
+│   ├── 01-SYLLABUS/
+│   ├── 02-VIDEO-RESOURCES/
+│   └── 03-NOTES/
 ├── GATE-CSE/
 │   ├── README.md
 │   ├── 03-IDEAS-AND-PRIORITY/
@@ -757,6 +762,7 @@ It is designed to help the student:
 |---|---|
 | 🚀 Main App | [GATE 2027 Master Strategy](https://gate2027masterstrategy.vercel.app/) |
 | 🎓 GATE CSE | [Open Workspace](GATE-CSE/) |
+| 🎯 GATE Aptitude | [Open Workspace](GATE-APTITUDE/) |
 | 📊 CSE Analysis | [Open](01-ANALYSIS/01-GATE-CSE/) |
 | 🗓️ CSE Study Plan | [Open](02-HOW-TO-STUDY/01-GATE-CSE/) |
 | 🎯 CSE Priority | [Open](GATE-CSE/03-IDEAS-AND-PRIORITY/) |
