@@ -1,27 +1,26 @@
 # GATE DA Notes & Subject Resources
 
 ## DA Syllabus & Planning
-- Planning — GATE DA 2027 100 Day Preparation Tracker
-- Syllabus — DA_GATE2027 Syllabus
+- [GATE DA — Syllabus & Planning folder](https://drive.google.com/drive/folders/1yvN59ReIW3fwVaRHDODsacjjkl-j2e3X)
 
 ## Probability & Statistics
-- [DA Notes](https://drive.google.com/drive/folders/1Jk1hM3l6QqW6kD8f3wRjvGx2kS6cT4pA)
+- [Notes — Probability & Statistics](https://drive.google.com/drive/folders/1HMVRt0bzxC2lvkMi2Lv_3yxR-IFGmdw1)
 
 ## Linear Algebra
-- [DA Notes](https://drive.google.com/drive/folders/1wZ3yE0P7h9J2d4K8mQ5sL6nR1tV3xY2Z)
+- [Notes — Linear Algebra](https://drive.google.com/drive/folders/1-zdD3Zjawg0EVOGCGdHNFlQG6JoX3Oy2)
 
 ## Calculus & Optimization
-- [DA Notes](https://drive.google.com/file/d/1tCvXOG-CaOZXvdf_UyisVDlJ6sH4kOeC/view?usp=sharing)
+- [Notes — Calculus & Optimization](https://drive.google.com/drive/folders/1USqIhqPhU5HWqHvQ0jFFrwkH1IIWuzSr)
 
 ## Programming, Data Structures & Algorithms
-- [DA Notes](https://drive.google.com/drive/folders/1guuk65t5mVAX7Q-WdCNC04qmezophcMj)
+- [Notes — Programming, DSA & Algorithms](https://drive.google.com/drive/folders/1guuk65t5mVAX7Q-WdCNC04qmezophcMj)
 
 ## Database Management & Warehousing
-- [DA Notes](https://drive.google.com/drive/folders/1EIxFdkGFFy3Vxy6Tz_EljmU3285ISz7)
+- [Notes — Database Management & Warehousing](https://drive.google.com/drive/folders/1EIxFdkGFFy3Vxy6Tz_EljmU30285ISz7)
 
 ## Machine Learning
-- [DA Notes](https://drive.google.com/drive/folders/1ie9_fy9ov628gJCKNo0Ulryegjyk7p8wi)
+- [Notes — Machine Learning](https://drive.google.com/drive/folders/1ie9_fy9ov628gJCKNo0Ulryegjy7p8wi)
 - [Machine Learning Killer Visualization](https://gatedamlcompleteultra2027.vercel.app/)
 
 ## Artificial Intelligence
-- [DA Notes](https://drive.google.com/drive/folders/1IkjOwTXC4x09-YRTVkvUYqbcgFtX280)
+- [Notes — Artificial Intelligence](https://drive.google.com/drive/folders/1IkjOwTXC4x09-YRTVkvURYqbcgFtX280)
