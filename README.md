@@ -346,11 +346,11 @@ Each subject page follows:
 
 ---
 
-# 📚 GATE CSE RESOURCE HUB
+# 🎥 GATE CSE VIDEO RESOURCE HUB
 
 [Open GATE CSE Video Resources](05-VIDEO-RESOURCES/01-GATE-CSE/)
 
-The CSE resource library contains dedicated pages for:
+The CSE video library is organised into playlist, one-shot and topic-wise video folders for:
 
 | # | Subject |
 |---:|---|
@@ -368,7 +368,7 @@ The CSE resource library contains dedicated pages for:
 | 12 | Calculus |
 | 13 | GATE General Aptitude |
 
-Each subject page combines topic-level learning entry points, PYQ access, notes/reference material, a study sequence and a completion checklist.
+Each subject folder in the video library keeps the supplied video links in the same topic order as the source material.
 
 ### Main CSE Learning Sources
 - [Jenny’s Lectures CS/IT](https://www.youtube.com/@JennyslecturesCSIT)
@@ -379,11 +379,11 @@ Each subject page combines topic-level learning entry points, PYQ access, notes/
 
 ---
 
-# 📊 GATE DA RESOURCE HUB
+# 🎥 GATE DA VIDEO RESOURCE HUB
 
 [Open GATE DA Video Resources](05-VIDEO-RESOURCES/02-GATE-DA/)
 
-The DA resource library contains:
+The DA video library is organised into playlist, one-shot and topic-wise video folders for:
 
 | # | Subject / Section |
 |---:|---|
