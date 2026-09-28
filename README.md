@@ -634,7 +634,7 @@ Calculus, maxima/minima, Taylor expansion and optimization.
 > ## 🚨 FEATURED DA PLANNING TOOL
 > **Use the 100-Day Tracker as the primary day-by-day execution sheet for GATE DA preparation.**
 >
-> **[📅 OPEN GATE DA 2027 — 100-DAY PREPARATION TRACKER](https://drive.google.com/file/d/1gaZZXs8iaPADpk66C1FEPyuI9dImOlJm/view)**
+> **[📅 OPEN GATE DA 2027 — 100-DAY PREPARATION TRACKER](https://gateda100daydatracker2027.vercel.app/)**
 >
 > **Planning flow:**  
 > `SYLLABUS → 100-DAY TRACKER → SUBJECT PRIORITY → WEEKLY PLAN → DAILY TOPIC → PYQ → ERROR LOG → REVISION`
@@ -656,7 +656,7 @@ Calculus, maxima/minima, Taylor expansion and optimization.
 
 | Resource | Purpose | Link |
 |---|---|---|
-| **100-Day Preparation Tracker** | Day-wise and topic-level progress tracking | [Open Tracker](https://drive.google.com/file/d/1gaZZXs8iaPADpk66C1FEPyuI9dImOlJm/view) |
+| **100-Day Preparation Tracker** | Day-wise and topic-level progress tracking | [Open Tracker](https://gateda100daydatracker2027.vercel.app/) |
 | **GATE DA 2027 Syllabus** | Scope control for planned topics | [Open Syllabus](https://drive.google.com/file/d/17U-cM_txdkhe1C28A3iZb6MhGbKEGk1/view) |
 | **Syllabus & Planning Folder** | Supporting planning material | [Open Planning Folder](https://drive.google.com/drive/folders/1yvN59ReIW3fwVaRHDODsacjjkl-j2e3X) |
 
