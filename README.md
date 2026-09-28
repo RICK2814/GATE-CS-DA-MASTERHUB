@@ -671,6 +671,47 @@ Use:
 > **Quick Entry:** Keep this tracker bookmarked and use it as the first planning checkpoint before opening the DA resource folders.
 
 
+
+# 🔥 GATE CSE 2027 — PREPARATION TRACKER
+
+> ## 🚨 FEATURED CSE PLANNING TOOL
+> **Use the GATE CSE Tracker as the dedicated execution dashboard for your CSE preparation, progress tracking and revision planning.**
+>
+> **[💻 OPEN GATE CSE 2027 TRACKER](https://gate-tracker-navy-zeta.vercel.app/)**
+>
+> **Execution flow:**  
+> `SYLLABUS → SUBJECT PLAN → TOPIC TARGET → LEARN → PRACTICE → PYQ → ERROR LOG → RE-SOLVE → REVISION`
+
+### How to Use the CSE Tracker
+
+| Step | Action |
+|---|---|
+| **01 — Scope** | Confirm the current CSE subject/topic from the syllabus and Master Table |
+| **02 — Target** | Set the current daily or weekly topic target |
+| **03 — Learn** | Use the repository's playlist / one-shot / topic-wise resources |
+| **04 — Practice** | Solve representative questions after the concept pass |
+| **05 — PYQ** | Attempt relevant GATE CSE PYQs |
+| **06 — Review** | Record wrong, guessed, slow or low-confidence questions |
+| **07 — Re-solve** | Re-attempt important mistakes without looking at solutions |
+| **08 — Revise** | Carry weak topics into the next revision cycle |
+
+### CSE Tracker Entry
+
+| Resource | Purpose | Link |
+|---|---|---|
+| **GATE CSE 2027 Tracker** | Dedicated preparation, progress and revision tracking | [Open CSE Tracker](https://gate-tracker-navy-zeta.vercel.app/) |
+
+### Tracker Completion Rule
+
+A topic should **not** be marked complete only because the lecture is finished.
+
+Use:
+
+**Concept Coverage → Notes/Reference Review → Practice → PYQ → Error Review → Re-solve → Revision**
+
+> **Quick Entry:** Use the CSE Tracker alongside the **Master Table**, **How to Study**, **Video Resources** and **PYQ Centre** so progress tracking remains connected to actual preparation.
+
+
 # 🌐 PRIMARY EXTERNAL ENTRY POINTS
 
 ## Official GATE 2027 Portal
