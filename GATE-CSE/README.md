@@ -9,6 +9,7 @@
 | Ideas & Priority | [Open](03-IDEAS-AND-PRIORITY/) |
 | PYQ | [Open](04-PYQ/) |
 | Global Master Table | [Open](../03-MASTER-TABLE/01-GATE-CSE/) |
+| Notes | [Open](../04-NOTES/01-GATE-CSE/) |
 | Resources | [Open](06-RESOURCES/) |
 
 ## Resource depth
