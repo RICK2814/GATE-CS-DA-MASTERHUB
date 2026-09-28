@@ -1,6 +1,6 @@
 # GATE CSE - Advanced Master Workspace
 
-**Preparation architecture:** Global Analysis -> Global How to Study -> Track Ideas & Priority -> Track PYQ -> Global Master Table -> Track Resources
+**Preparation architecture:** Global Analysis -> Global How to Study -> Track Ideas & Priority -> Track PYQ -> Global Master Table -> Notes -> Video Resources -> Track Ideas/PYQ
 
 | Section | Open |
 |---|---|
@@ -10,7 +10,8 @@
 | PYQ | [Open](04-PYQ/) |
 | Global Master Table | [Open](../03-MASTER-TABLE/01-GATE-CSE/) |
 | Notes | [Open](../04-NOTES/01-GATE-CSE/) |
-| Resources | [Open](06-RESOURCES/) |
+| Video Resources | [Open](../05-VIDEO-RESOURCES/01-GATE-CSE/) |
+| Detailed Study Sheets | [Open](06-RESOURCES/) |
 
 ## Resource depth
 
