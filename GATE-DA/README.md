@@ -1,6 +1,6 @@
 # GATE DA - Advanced Master Workspace
 
-**Preparation architecture:** Analysis -> How to Study -> Ideas & Priority -> PYQ -> Master Table -> Resources
+**Preparation architecture:** Global Analysis -> Global How to Study -> Track Ideas & Priority -> Track PYQ -> Global Master Table -> Track Resources
 
 ## Planning
 - [100 Day Preparation Tracker](https://drive.google.com/file/d/1gaZZXs8iaPADpk66C1FEPyuI9dImOlJm/view)
@@ -9,12 +9,16 @@
 
 | Section | Open |
 |---|---|
-| 01 - Analysis | [Open](01-ANALYSIS/) |
-| 02 - How to Study | [Open](02-HOW-TO-STUDY/) |
-| 03 - Ideas & Priority | [Open](03-IDEAS-AND-PRIORITY/) |
-| 04 - PYQ | [Open](04-PYQ/) |
-| 05 - Master Table | [Open](05-MASTER-TABLE/) |
-| 06 - Resources | [Open](06-RESOURCES/) |
+| Global Analysis | [Open](../01-ANALYSIS/02-GATE-DA/) |
+| Global How to Study | [Open](../02-HOW-TO-STUDY/02-GATE-DA/) |
+| Ideas & Priority | [Open](03-IDEAS-AND-PRIORITY/) |
+| PYQ | [Open](04-PYQ/) |
+| Global Master Table | [Open](../03-MASTER-TABLE/02-GATE-DA/) |
+| Resources | [Open](06-RESOURCES/) |
+
+## Track-specific sections
+
+This workspace now keeps only the DA-specific execution layers here. Shared planning sections are maintained at repository root.
 
 ## Machine Learning Interactive
 [Open Machine Learning Killer Visualization](06-RESOURCES/06-machine-learning/machine-learning-killer-visualization.md)
